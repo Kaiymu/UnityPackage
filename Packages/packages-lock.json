@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "com.kaiymu.dynamichourlight": {
+      "version": "file:DynamicHourLight",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.kaiymu.poolsystem": {
+      "version": "file:PoolSystem",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
       "depth": 0,
